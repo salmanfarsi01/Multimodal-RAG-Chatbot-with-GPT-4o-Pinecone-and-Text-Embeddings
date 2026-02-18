@@ -1,4 +1,4 @@
-# Multimodal RAG Chatbot with GPT-4o, Pinecone, and Text Embeddings
+AI Spirituality Platform: Developed multimodal RAG chatbot supporting PDF, DOCX, voice, video, and image data. Integrated ElevenLabs agent for voice-to-voice and text interaction. Implemented retrieval pipeline using Pinecone and OpenAI APIs.
 
 ## Overview
 
